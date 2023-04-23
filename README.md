@@ -1,4 +1,4 @@
-Olá! Somos a empresa **Expand Solutions**, seja bem-vindo.
+Olá! Somos a empresa **Expand Solutions** , seja bem-vindo. Nesse espaço, esclareceremos quem somos e quais os objetivos da empresa.
 
 **Qual a missão da empresa?**
 
@@ -11,3 +11,19 @@ Ser referência na região da RMVale no desenvolvimento de tecnologias visuais, 
 **Quais os valores da empresa?**
 
 Trabalhar com inovação, sempre zelando pela integridade e clareza de maneira assertiva, baseado em princípios éticos.
+
+**INTEGRANTES DA EMPRESA E SUAS FUNÇÕES**
+
+**VITOR HUGO – PRODUCT OWNER**
+
+**ROSIMEIRE HELENA – SCRUM MASTER**
+
+**ALAN DOUGLAS – SCRUM TEAM**
+
+**GABRIEL SANTANA – SCRUM TEAM**
+
+**JOYCE SENA – SCRUM TEAM**
+
+**RAFAEL RAMIREZ – SCRUM TEAM**
+
+**(Utilizamos a estrutura Scrum, uma estrutura ágil de gestão de projetos)**
