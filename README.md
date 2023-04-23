@@ -1,4 +1,4 @@
-Olá! Somos a empresa **Expand Solutions** , seja bem-vindo.
+Olá! Somos a empresa **Expand Solutions**, seja bem-vindo.
 
 **Qual a missão da empresa?**
 
