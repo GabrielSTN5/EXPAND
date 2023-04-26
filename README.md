@@ -1,4 +1,4 @@
-**Olá!** Somos a empresa **Expand Solutions**, seja bem-vindo. Nesse espaço, esclareceremos quem somos e quais os objetivos da empresa.
+**Olá!** Somos a empresa **Expand Solutions**, seja bem-vindo. Nesse espaço, esclareceremos quem somos e quais os objetivos da empresa. :earth_americas:
 
 **Qual a missão da empresa?**
 
