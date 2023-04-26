@@ -1,4 +1,4 @@
-**Olá!** Somos a empresa **Expand Solutions**, seja bem-vindo. Nesse espaço, esclareceremos quem somos e quais os objetivos da empresa. :airplane: :ship: :train:
+**Olá!** Somos a empresa **Expand Solutions**, seja bem-vindo. Nesse espaço, esclareceremos quem somos e quais os objetivos da empresa. :airplane: :ship: 
 
 **Qual a missão da empresa?**
 
