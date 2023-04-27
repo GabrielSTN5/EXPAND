@@ -27,3 +27,7 @@ Trabalhar com inovação, sempre zelando pela integridade e clareza de maneira a
 **RAFAEL RAMIREZ – SCRUM TEAM**
 
 **(Utilizamos a estrutura Scrum, uma estrutura ágil de gestão de projetos)**
+
+**LINKS ÚTEIS DA EQUIPE**
+
+JIRA SOFTWARE: https://expandlogsolutions.atlassian.net
